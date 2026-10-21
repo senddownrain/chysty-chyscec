@@ -1,0 +1,392 @@
+[
+  {
+    "path": ".nojekyll",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "README.md",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "06485a0569c8d0e01a29febfcdc105e6015e7509945420c5257d73116edcf172"
+  },
+  {
+    "path": "app.mjs",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "bd483abc021cea362d82d07a5e511b98f2b7fbcf671d052f16e24abe5f363eba"
+  },
+  {
+    "path": "card-review.mjs",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "ebbc922dfa254c328f96f6ea12119beacca688bb17dac725cbd23f440862d8fd"
+  },
+  {
+    "path": "config.mjs",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "2a17ed1625aa80ad3a3f6e4d899a2839048f6e215a694009bb15b2ef6dfab126"
+  },
+  {
+    "path": "core.mjs",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "18113a308d00d3d9bff9cf5ba143e4fb8cf3648476049f3ea45badd8c94df446"
+  },
+  {
+    "path": "image-sizes.mjs",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "9a54bb1e803f4bd80b4e6b302f482ecfb2a0ff34e6077eb59f034a8d6bec12c5"
+  },
+  {
+    "path": "index.html",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "94856bfc0bf05ba111d0e9cee28b7b374faea4a6bbfca5d71137ccadc2279ea1"
+  },
+  {
+    "path": "navigation.mjs",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "ceece966464c808564e39760c3111d85f5cf670fa29bc5c8d0e33592a858aa73"
+  },
+  {
+    "path": "prayers.mjs",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "9ae664a6e98acd069e5318851a5880405eb1442203d3c1f73ea50005d6b6e628"
+  },
+  {
+    "path": "saints.mjs",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "50962d39f0707e953ad2a9590dd4a461251c5169ee6f96f49230e4d83580c32c"
+  },
+  {
+    "path": "sources.html",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "b47eef4a3f5b7224e12b4824e548fb50c584c04915f2e8c0e7be2106092deb59"
+  },
+  {
+    "path": "style.css",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "70c21fd02943468af5c65493d50c429bb68d640e083f3c0230a61aa409b0fab6"
+  },
+  {
+    "path": "assets/saint-19.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "bfbfe4fe4866c329b27a0135f003c5f237eadd056c695571295d9fb0c0a460ed"
+  },
+  {
+    "path": "assets/screen/saint-13-800.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "fd3616ab5e6332e1851faf5ff13c581170d5cbcdf317550787b304b6171306b1"
+  },
+  {
+    "path": "assets/screen/saint-28-800.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "044f9e4a5db400c8922b242546efb3203c19655b4974b8b33bb7498717ea3c0e"
+  },
+  {
+    "path": "assets/screen/saint-31-800.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "e7caf7612dc83b8eb310a302bb4a045fef56455c5f81f409e7d56585c6e223c2"
+  },
+  {
+    "path": "assets/saint-18.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "548b540ddf49680f33824516c619f9b52c4fac0194ef37c840015d62ea562bb6"
+  },
+  {
+    "path": "assets/saint-34.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "7d31707e74eeb4f7f5f0a3c0590cad581c6ddb1476d35c4870e996542825b259"
+  },
+  {
+    "path": "assets/screen/saint-34-800.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "10112f23fa613b4aa5844b3ff14cc8177e0b611189a9c1deae006b31a186d5c8"
+  },
+  {
+    "path": "assets/saint-07.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "cfccca197d48d5146adbc5fe178334ad108c3a4a0e1565915ad6725f851f3ccd"
+  },
+  {
+    "path": "assets/saint-23.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "f64c2f9f0afd76034b4a671a2490038d7aabcad7de2c4bb794e3c1e36748aca3"
+  },
+  {
+    "path": "assets/saint-05-menthon.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "64762e005e98384a66400e91b0086c90edffa1cca1892392763224d2c50e2115"
+  },
+  {
+    "path": "assets/screen/saint-05-400.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "028a3f3f6b4510d16dc7907474f7c7ba17314e3bb259cf0c292b4986767edf1a"
+  },
+  {
+    "path": "assets/saint-28.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "be7daa87954fbd34646a170ffcc1ed0a8c8c693f7ad8c9c6c2947b4ca0033022"
+  },
+  {
+    "path": "assets/screen/saint-26-400.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "967b8f4d9b603acd49aa7c4e3447b5d6a6d15551b6fca8b57521fa4b2d7c1053"
+  },
+  {
+    "path": "assets/screen/saint-23-400.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "41062ea8aec3af310e798059a2fba5dadc9d5fc371ec23c6808786a98b1dfd11"
+  },
+  {
+    "path": "assets/screen/saint-33-400.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "b865e3df18491e9be75b10ecb425b5d524df96dae7ae26f5a3b0857972bacf8f"
+  },
+  {
+    "path": "assets/screen/saint-28-400.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "2134f29812b491496657a1f12c10eaea8efaa74fac5f6bc9ba7d281faa740068"
+  },
+  {
+    "path": "assets/screen/saint-13-400.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "f3e9fcda14ec65f50fcf5a76106becdaadc150c68619ea1698b97064597ad373"
+  },
+  {
+    "path": "assets/saint-27.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "2abf38be961704e05cbd8bc0355054cd5d748d7ea942c41db539da67ea56c33a"
+  },
+  {
+    "path": "assets/screen/saint-34-400.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "f4deafa1d0edbbf0146e5db1b5bfe0e41fbf1feb2527834511cb3a5371383c2f"
+  },
+  {
+    "path": "assets/screen/saint-35-400.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "1df95468ef8e142f091f12c562087e6ea28319d4c4836ae1495e3fdc1353ef91"
+  },
+  {
+    "path": "assets/saint-20.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "a4d47e6486eaa99a82a3ee507704e3fde517548a1d24238c509f25bba086d229"
+  },
+  {
+    "path": "assets/saint-14.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "8a65daed69ecc384f2ba891f392989dec14a138545faa7ffbf0aeee46a2007d6"
+  },
+  {
+    "path": "assets/prayer-book-v7.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "880c424dc397c297f53894924a9bbe1802e65a0cef1485f3014f32fc81a4d264"
+  },
+  {
+    "path": "assets/saint-24.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "bf531925a1ead37c8eb06bd49fc9d9438f749fa626c0555285fcb4619d6ceb35"
+  },
+  {
+    "path": "assets/saint-30.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "a57a7cf8fd4feebdd1dd7b22760303cf223c11fe7cc0867337e5327223567680"
+  },
+  {
+    "path": "assets/saint-21.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "ce7026785d96c8d18ce8aea1e57d6b5fcfb7e67fcae7f6489b92a5a7637e2f5d"
+  },
+  {
+    "path": "assets/prayer-book-v7-small.webp",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "4c8ccfa8cea71a7ce0a3f5eac7eeff30dffa8d9662f91b4a35fe6ecd099a3755"
+  },
+  {
+    "path": "assets/saint-15.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "40616b2a3bba820b6d7d38fae7fe73d99e323291dbbb9c6dc750e8e1edead625"
+  },
+  {
+    "path": "assets/founder-papczynski.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "8a9abbfaa6afa0a3395d7e6ecfa7d893e96585850834dbd16bb6240e33ef77b3"
+  },
+  {
+    "path": "assets/saint-06.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "d68bac76c077154bcead650d24420345f4a988c89b1cf4f6ba0e1027ee4f5702"
+  },
+  {
+    "path": "assets/saint-09.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "a972069b76a926c63a5d1eefc2dcf24ae03c08f7f73512d4c1d22e66055ec770"
+  },
+  {
+    "path": "assets/saint-12.jpg",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "00302c6f0ec8cdb2aa9515e0595d40bb02069719a9abf15754248a0b319e91b9"
+  },
+  {
+    "path": "assets/favicon.png",
+    "archive": "1-chysty-chyscec-v12-codex-part1.zip",
+    "sha256": "f00d6266c9215c521023ed29107f5357cd91edac3cf5ab747073ad62e174fcb2"
+  },
+  {
+    "path": "assets/saint-13.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "658fb27571421891e3b22515203ebbb339ff61a8ca662202902f259227470f6f"
+  },
+  {
+    "path": "assets/screen/saint-26-800.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "e19e03d97af00849441f3f4a83df3e39be668cafa495562a00bb38fe03770185"
+  },
+  {
+    "path": "assets/screen/saint-19-800.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "af3f29ececcbd85a570a700f9445f7360b3b648b82464e830eee0a7d1abfc671"
+  },
+  {
+    "path": "assets/screen/saint-23-800.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "b30366526b26f71193d38914396eaf9af9426a87393c7cde32c5049111e47a5b"
+  },
+  {
+    "path": "assets/saint-25.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "f12945bbae7675f58ccea11decc191e040479525818d888d73d23cff89109bc9"
+  },
+  {
+    "path": "assets/saint-33.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "f5027175c74fed2ca89c83454670f8be064cc6c7fce00f6ffb54bd49b0292717"
+  },
+  {
+    "path": "assets/saint-31.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "4ab6304924528c15df5d60af09c1e94146773da66809d2ff6d99a7da8a9bbff0"
+  },
+  {
+    "path": "assets/saint-26.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "143cd240fe191762c5432eed99552b547815d0a5c5ad210329150304e1acac3a"
+  },
+  {
+    "path": "assets/screen/saint-20-800.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "286a21ad7873529c5d3a51d74d203082728f4962d7d7a63fc853b41d3a211a97"
+  },
+  {
+    "path": "assets/saint-11.png",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "532caf538768a9983623b1d9252835ca3df54e1ada36207eef4a064b74cb4dff"
+  },
+  {
+    "path": "assets/screen/saint-07-400.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "d1b547194ec6dc69f4ab9e69635dd7fd589e894607a8f112408e74d8c2f3caf3"
+  },
+  {
+    "path": "assets/screen/saint-18-400.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "543372f94a701fa2e7d10c8a8fe6646beb0a63326d756343a11df57cbd730e31"
+  },
+  {
+    "path": "assets/screen/saint-11-300.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "1e6b9a3b3e7cdc747ab80bf87b297328430dc631219f32561fc2bd2ac38553e0"
+  },
+  {
+    "path": "assets/screen/saint-31-400.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "2127879b888eba4887e70bc56411ba6a821cc5eedd2524e08ee0df0c0bdf9d7d"
+  },
+  {
+    "path": "assets/screen/saint-25-400.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "ec5a78521c8d63a4bd509243003597f10a98c6a4347d7e980ca2c23bf83de7c4"
+  },
+  {
+    "path": "assets/screen/saint-19-400.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "be53cf8f848945f08da7b803d68e62dae58e2ba3b86ecc602c25d3cdd6f100e4"
+  },
+  {
+    "path": "assets/screen/saint-29-400.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "f7b0681a27edd66bbbd081d07f6664d3a0bba542ae88573a6cda6253e215ac5a"
+  },
+  {
+    "path": "assets/screen/saint-16-400.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "56dbf1eabf2ff005638e9962c0c5387e9e1b5d5a3b991ae662b1625f8fa6165b"
+  },
+  {
+    "path": "assets/saint-29.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "c6dd2974bd127fba660e68bde9d6057f8fcbc3d7885e2338cb6e54ec7530fa3f"
+  },
+  {
+    "path": "assets/rositsa.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "1e6bdcd90c4ae1b17a852e0c8f78843341a7c737451b7604c0d37196b3caed64"
+  },
+  {
+    "path": "assets/screen/saint-20-400.webp",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "a1c61b8984840c4afd2b659199cc44dea783b20f9c97108ea6917a93ddcddd80"
+  },
+  {
+    "path": "assets/saint-02.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "6972911581db60e44bdd495a62a8d5e37958bfb8ad748c915cd674fbcaf1344b"
+  },
+  {
+    "path": "assets/marian-logo.png",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "741a942186bd78819cf8c01e07aa109a5ea20ed395828211c0c01cfe1d0cbe9c"
+  },
+  {
+    "path": "assets/saint-01.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "918f21f3587fd19bfe0975341927c854afc4b0c1172f7a99c30900e1beb0c486"
+  },
+  {
+    "path": "assets/saint-32.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "0c5ea303b4f5984840f2302cb0829864da093f5f097a335f556b257ed3a98cd9"
+  },
+  {
+    "path": "assets/saint-16.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "ab9e7d34ba638965bc4c515beed7dd12af29711c61a73228498a12f18048bc4e"
+  },
+  {
+    "path": "assets/saint-04.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "3a3416761c07a750e35b94c13b9074b73cde474e4dd3bddc834b557544a719fe"
+  },
+  {
+    "path": "assets/saint-03.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "ff43b718969499f11cc59e6fa427c77fb48bc7321a8c81299bf34822085a8ae9"
+  },
+  {
+    "path": "assets/saint-08.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "f005b28020d5fbfd6c9ab2be15cc9fb14a442fd6bb23fe50b93fec077ee8f367"
+  },
+  {
+    "path": "assets/saint-22.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "453da477022dd617128611945bc9427e2a92eb729b657808c92cf00fbacf8ad1"
+  },
+  {
+    "path": "assets/saint-17.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "c1dc52191e5be3d468b43c27740d95906ce8d61498575cb28932c229065fa618"
+  },
+  {
+    "path": "assets/saint-10.jpg",
+    "archive": "2-chysty-chyscec-v12-codex-part2.zip",
+    "sha256": "bcace7a4ca9fcfcf09cf7bd7ce5011dd745b4f1dae03dcfa7bf83e6dc7f95942"
+  }
+]
