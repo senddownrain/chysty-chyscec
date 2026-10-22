@@ -44,6 +44,6 @@ images = [path for path in images if path.is_file()]
 for path in images:
     with Image.open(path) as image:
         image.verify()
-assert len(images) == 65, len(images)
+assert images  # The reviewed registry allowlist is checked by check_image_rights.py.
 assert (ROOT / '.nojekyll').is_file()
 print(f'PASS: {len(pages)} HTML pages, local links/fragments/modules/assets, {len(images)} images, .nojekyll')

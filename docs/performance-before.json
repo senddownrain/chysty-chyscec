@@ -1,0 +1,153 @@
+{
+  "url": "http://localhost:8765/chyscec-before/",
+  "method": "Chromium, 390x844, DPR 2, fresh context per scenario; local HTTP response body bytes, no compression/throttling. LCP/CLS are lab observations, not field Web Vitals. No INP without real interactions.",
+  "results": [
+    {
+      "scenario": "first-visit-top",
+      "resources": [
+        {
+          "path": "",
+          "bytes": 35710,
+          "type": "document"
+        },
+        {
+          "path": "style.css",
+          "bytes": 24306,
+          "type": "stylesheet"
+        },
+        {
+          "path": "assets/marian-logo.png",
+          "bytes": 89604,
+          "type": "image"
+        },
+        {
+          "path": "app.mjs",
+          "bytes": 8950,
+          "type": "script"
+        },
+        {
+          "path": "navigation.mjs",
+          "bytes": 560,
+          "type": "script"
+        },
+        {
+          "path": "core.mjs",
+          "bytes": 1085,
+          "type": "script"
+        },
+        {
+          "path": "card-review.mjs",
+          "bytes": 1447,
+          "type": "script"
+        },
+        {
+          "path": "prayers.mjs",
+          "bytes": 7950,
+          "type": "script"
+        },
+        {
+          "path": "saints.mjs",
+          "bytes": 53097,
+          "type": "script"
+        },
+        {
+          "path": "image-sizes.mjs",
+          "bytes": 6917,
+          "type": "script"
+        },
+        {
+          "path": "config.mjs",
+          "bytes": 177,
+          "type": "script"
+        },
+        {
+          "path": "assets/favicon.png",
+          "bytes": 6242,
+          "type": "other"
+        }
+      ],
+      "requestCount": 12,
+      "bodyBytes": 236045,
+      "imageBytes": 89604,
+      "vitalsLocalUnthrottled": {
+        "lcp": 1252
+      }
+    },
+    {
+      "scenario": "restored-05-at-card",
+      "resources": [
+        {
+          "path": "",
+          "bytes": 35710,
+          "type": "document"
+        },
+        {
+          "path": "assets/marian-logo.png",
+          "bytes": 89604,
+          "type": "image"
+        },
+        {
+          "path": "style.css",
+          "bytes": 24306,
+          "type": "stylesheet"
+        },
+        {
+          "path": "app.mjs",
+          "bytes": 8950,
+          "type": "script"
+        },
+        {
+          "path": "navigation.mjs",
+          "bytes": 560,
+          "type": "script"
+        },
+        {
+          "path": "prayers.mjs",
+          "bytes": 7950,
+          "type": "script"
+        },
+        {
+          "path": "core.mjs",
+          "bytes": 1085,
+          "type": "script"
+        },
+        {
+          "path": "card-review.mjs",
+          "bytes": 1447,
+          "type": "script"
+        },
+        {
+          "path": "image-sizes.mjs",
+          "bytes": 6917,
+          "type": "script"
+        },
+        {
+          "path": "saints.mjs",
+          "bytes": 53097,
+          "type": "script"
+        },
+        {
+          "path": "config.mjs",
+          "bytes": 177,
+          "type": "script"
+        },
+        {
+          "path": "assets/favicon.png",
+          "bytes": 6242,
+          "type": "other"
+        },
+        {
+          "path": "assets/saint-05-menthon.jpg",
+          "bytes": 369767,
+          "type": "image"
+        }
+      ],
+      "requestCount": 13,
+      "bodyBytes": 605812,
+      "imageBytes": 459371,
+      "vitalsLocalUnthrottled": {
+        "lcp": 764
+      }
+    }
+  ]
+}

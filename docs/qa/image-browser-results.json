@@ -1,0 +1,36 @@
+{
+  "url": "http://localhost:8765/chysty-chyscec/",
+  "layouts": [
+    {
+      "width": 360,
+      "cardsChecked": 35,
+      "aspectRatio": "4:5",
+      "overflow": false,
+      "consoleOrHTTPFailures": []
+    },
+    {
+      "width": 390,
+      "cardsChecked": 35,
+      "aspectRatio": "4:5",
+      "overflow": false,
+      "consoleOrHTTPFailures": []
+    },
+    {
+      "width": 768,
+      "cardsChecked": 35,
+      "aspectRatio": "4:5",
+      "overflow": false,
+      "consoleOrHTTPFailures": []
+    },
+    {
+      "width": 1440,
+      "cardsChecked": 35,
+      "aspectRatio": "4:5",
+      "overflow": false,
+      "consoleOrHTTPFailures": []
+    }
+  ],
+  "requestIsolation": true,
+  "screenAndPrintFailureFallback": true,
+  "printPDF": "saint-05-print.pdf"
+}
