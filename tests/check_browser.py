@@ -29,7 +29,8 @@ with sync_playwright() as p:
     page.wait_for_function('(first)=>document.getElementById("saint-name").textContent!==first', arg=first)
     assert 'Тэставае імя' in page.locator('#names-list').inner_text()
     page.locator('#print').click()
-    page.locator('#print-photo').evaluate('(img)=>img.decode()')
+    if page.locator('#print-photo').is_visible():
+        page.locator('#print-photo').evaluate('(img)=>img.decode()')
     expected = URL.split('://', 1)[1].rstrip('/')
     assert page.locator('#print-site-url').inner_text() == expected
     assert 'Тэставае імя' not in page.locator('#print-card').inner_text()
@@ -43,9 +44,16 @@ with sync_playwright() as p:
     for saint_id in ids:
         page.evaluate("id=>localStorage.setItem('chysty_chyscec.selection.v1',JSON.stringify({version:1,saintId:id,assignedAt:new Date().toISOString()}))", saint_id)
         page.reload()
-        page.locator('.saint-photo').evaluate('(img)=>img.decode()')
+        approved = page.evaluate("async id=>!!(await import('./image-sizes.mjs')).imageSizes[id]", saint_id)
+        assert page.locator('.saint-photo').count() == int(approved)
+        if approved:
+            page.locator('.saint-photo').evaluate('(img)=>img.decode()')
         page.locator('#print').click()
-        page.locator('#print-photo').evaluate('(img)=>img.decode()')
+        assert page.locator('#print-photo').is_visible() == approved
+        if approved:
+            page.locator('#print-photo').evaluate('(img)=>img.decode()')
+        else:
+            assert page.locator('#print-photo').get_attribute('src') is None
         page.locator('#print-close').click()
     page.locator('#clear-names').click()
     page.locator('#dialog-yes').click()
@@ -60,4 +68,4 @@ with sync_playwright() as p:
     assert page.locator('#saint-card').is_visible()
     assert not errors, errors
     browser.close()
-    print('PASS: 35 saints and screen/print images, selection/replacement, persistence, names, private sharing, print/PDF, fragments, mobile width, sources; no browser errors or HTTP failures')
+    print('PASS: 35 saints, verified screen/print images and safe fallbacks, selection/replacement, persistence, names, private sharing, print/PDF, fragments, mobile width, sources; no browser errors or HTTP failures')

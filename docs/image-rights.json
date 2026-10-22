@@ -1,0 +1,2085 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-22",
+  "releaseReady": false,
+  "statusDefinitions": {
+    "candidate": "Предложение из входного реестра; не одобрено",
+    "verified": "Файл, личность и основание проверены для указанного изображения",
+    "needs-review": "Есть конкретный блокер; изображение святого не загружается",
+    "rejected": "Отклонённый файл; не использовать"
+  },
+  "images": [
+    {
+      "id": "saint-01",
+      "name": "БЛ. ІГНАЦЫ КЛАПАТОЎСКІ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-01.jpg",
+        "width": 200,
+        "height": 313,
+        "bytes": 55856,
+        "sha256": "918f21f3587fd19bfe0975341927c854afc4b0c1172f7a99c30900e1beb0c486",
+        "screen": {
+          "width": 200,
+          "height": 313,
+          "src": "assets/saint-01.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1fgr2CkFx7YuUgSHAeCeifDlKVh1yhYjF/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:KsIgnacyKłopotowski.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:KsIgnacyK%C5%82opotowski.jpg",
+          "authorAsReported": "nieznany. Происхождение по странице: Archiwum sióstr loretanek.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "nieznany — https://commons.wikimedia.org/wiki/File:KsIgnacyK%C5%82opotowski.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Ignacy Kłopotowski; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q126058); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-01",
+            "url": "https://commons.wikimedia.org/wiki/File:KsIgnacyK%C5%82opotowski.jpg",
+            "pageRead": false,
+            "dimensions": null,
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-02",
+      "name": "БЛАГАСЛАЎЛЕНЫ ЮРЫ МАТУЛЕВІЧ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-02.jpg",
+        "width": 1000,
+        "height": 966,
+        "bytes": 93310,
+        "sha256": "6972911581db60e44bdd495a62a8d5e37958bfb8ad748c915cd674fbcaf1344b",
+        "screen": {
+          "width": 1000,
+          "height": 966,
+          "src": "assets/saint-02.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1-I_Uu9sHMD5PrxM1J-tla58qQqKZOzn8/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Jerzy Matulewicz.png",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Jerzy_Matulewicz.png",
+          "authorAsReported": "Unknown author Unknown author. Происхождение по странице: Narodowe Archiwum Cyfrowe, Sygnatura: 1-R-128.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Unknown author Unknown author — https://commons.wikimedia.org/wiki/File:Jerzy_Matulewicz.png — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Jurgis Matulaitis-Matulevičius; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q559765); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-02",
+            "url": "https://commons.wikimedia.org/wiki/File:Jerzy_Matulewicz.png",
+            "pageRead": true,
+            "dimensions": {
+              "width": 516,
+              "height": 715,
+              "sizeAsReported": "276 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-03",
+      "name": "СВЯТАЯ БАРБАРА",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-03.jpg",
+        "width": 169,
+        "height": 300,
+        "bytes": 20117,
+        "sha256": "ff43b718969499f11cc59e6fa427c77fb48bc7321a8c81299bf34822085a8ae9",
+        "screen": {
+          "width": 169,
+          "height": 300,
+          "src": "assets/saint-03.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1oUng0vwbdv3yAawO5hDmmgohTufQHWbf/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Heilige Barbara van Nicomedië, Jan van Eyck, 1437, Koninklijk Museum voor Schone Kunsten Antwerpen, 410.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Heilige_Barbara_van_Nicomedi%C3%AB,_Jan_van_Eyck,_1437,_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen,_410.jpg",
+          "authorAsReported": "Jan van Eyck. Происхождение по странице: Royal Museum of Fine Arts Antwerp.",
+          "licenseAsReported": "CC0 ([текст лицензии](http://creativecommons.org/publicdomain/zero/1.0/deed.en)). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Jan van Eyck — https://commons.wikimedia.org/wiki/File:Heilige_Barbara_van_Nicomedi%C3%AB,_Jan_van_Eyck,_1437,_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen,_410.jpg — CC0.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Saint Barbara; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q192816); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-03",
+            "url": "https://commons.wikimedia.org/wiki/File:Heilige_Barbara_van_Nicomedi%C3%AB,_Jan_van_Eyck,_1437,_Koninklijk_Museum_voor_Schone_Kunsten_Antwerpen,_410.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 3816,
+              "height": 6696,
+              "sizeAsReported": "6.3 MB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-04",
+      "name": "СВЯТЫ БЕНЕДЫКТ НУРСІЙСКІ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-04.jpg",
+        "width": 200,
+        "height": 561,
+        "bytes": 30205,
+        "sha256": "3a3416761c07a750e35b94c13b9074b73cde474e4dd3bddc834b557544a719fe",
+        "screen": {
+          "width": 200,
+          "height": 561,
+          "src": "assets/saint-04.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1oh8ccmPtsWmwuuz2NmkVFxvUvossmQEr/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Fra Angelico 031.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_031.jpg",
+          "authorAsReported": "Fra Angelico. Происхождение по странице: The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 ..",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Fra Angelico — https://commons.wikimedia.org/wiki/File:Fra_Angelico_031.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Benedict of Nursia; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q44265); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-04",
+            "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_031.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 2024,
+              "height": 2468,
+              "sizeAsReported": "635 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Название страницы — Crucifixion with Saints; многофигурная композиция требует проверки, это не одиночный портрет Бенедикта.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-05",
+      "name": "СВЯТЫ БЕРНАРД АОСТСКІ",
+      "status": "verified",
+      "decision": "accepted",
+      "previous": {
+        "path": "assets/saint-05-menthon.jpg",
+        "width": 1095,
+        "height": 1692,
+        "bytes": 369767,
+        "sha256": "64762e005e98384a66400e91b0086c90edffa1cca1892392763224d2c50e2115",
+        "screen": {
+          "width": 1095,
+          "height": 1692,
+          "src": "assets/saint-05-menthon.jpg",
+          "srcset": "assets/screen/saint-05-400.webp 400w, assets/saint-05-menthon.jpg 1095w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "CC0-1.0",
+        "sourceAsReported": "[страница/предоставленный файл](https://commons.wikimedia.org/wiki/File:Bernardus_van_Menthon_(tg-uact-666).jpg).",
+        "rightsAsReported": "Alexander Goetiers. **Правообладатель:** CC0 опубликована коллекцией Thijs / University of Antwerp; активные исключительные права не заявлены. **Лицензия/разрешение:** CC0 1.0. **Атрибуция:** Нет по CC0; автор и источник добровольно сохраняются."
+      },
+      "candidates": [],
+      "blocker": null,
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": {
+        "src": "assets/saints/saint-05-480.webp",
+        "width": 388,
+        "height": 600,
+        "srcset": "assets/saints/saint-05-480.webp 388w, assets/saints/saint-05-640.webp 518w",
+        "sizes": "(max-width: 560px) 264px, (max-width: 800px) 142px, 212px",
+        "print": "assets/saints/saint-05-large.webp",
+        "variants": [
+          {
+            "path": "assets/saints/saint-05-480.webp",
+            "width": 388,
+            "height": 600,
+            "bytes": 59926,
+            "sha256": "f05a954c7fc2809ad1171577fc4d3f7621976286fccdd01934f915dbc4fe4214"
+          },
+          {
+            "path": "assets/saints/saint-05-640.webp",
+            "width": 518,
+            "height": 800,
+            "bytes": 101056,
+            "sha256": "8752367577b3fa4d806671a959c5f1d6e7ea89be382b93b3cbc839856fd0c836"
+          },
+          {
+            "path": "assets/saints/saint-05-large.webp",
+            "width": 971,
+            "height": 1500,
+            "bytes": 361950,
+            "sha256": "183e28f0fec5278091ffde1dd1f17a8825b534483cc0b4b27bef25769441e210"
+          }
+        ],
+        "original": "assets/originals/saint-05.jpg",
+        "transformation": "Пропорциональное уменьшение Lanczos и сжатие WebP; без обрезки и увеличения. Поля создаются CSS и не включены в файл.",
+        "originalLicense": "CC0-1.0",
+        "derivativeLicense": "CC0-1.0"
+      },
+      "attribution": {
+        "author": "Alexander Goetiers",
+        "title": "Saint Bernard of Menthon / Bernardus van Menthon",
+        "institution": "Thijs Collection, University of Antwerp",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Bernardus_van_Menthon_(tg-uact-666).jpg",
+        "originalFile": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bernardus_van_Menthon_%28tg-uact-666%29.jpg",
+        "license": "CC0 1.0",
+        "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "legalCode": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+        "required": false,
+        "credit": "Alexander Goetiers · Thijs Collection, University of Antwerp"
+      },
+      "evidence": {
+        "checkedAt": "2026-10-22",
+        "pageRevision": "https://commons.wikimedia.org/w/index.php?title=File:Bernardus_van_Menthon_(tg-uact-666).jpg&oldid=822075472",
+        "localSHA1": "bffb5363f88ea455a04602c33d4b3fdaf522739c",
+        "commonsSHA1": "bffb5363f88ea455a04602c33d4b3fdaf522739c",
+        "commonsBytes": 369767,
+        "identity": "File page title and depicted subject: Saint Bernard of Menthon. Local original exact SHA-1 match.",
+        "licenseCheck": "File page declares CC0 1.0; deed and legal code read 2026-10-22.",
+        "primarySource": "https://anet.be/record/opacuactobj/tg:uact:666/E",
+        "primarySourceCheck": "Not accessible via web tool; institution and CC0 confirmed on Commons file page, not independently on anet.be."
+      }
+    },
+    {
+      "id": "saint-06",
+      "name": "СВЯТЫ БРАТ АЛЬБЕРТ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-06.jpg",
+        "width": 300,
+        "height": 450,
+        "bytes": 18163,
+        "sha256": "d68bac76c077154bcead650d24420345f4a988c89b1cf4f6ba0e1027ee4f5702",
+        "screen": {
+          "width": 300,
+          "height": 450,
+          "src": "assets/saint-06.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1KV4Z0w-8-KNPthBTc0hSQwi_Y0_1vD7m/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Brat Albert.png",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Brat_Albert.png",
+          "authorAsReported": "Unknown author Unknown author. Происхождение по странице: Narodowe Archiwum Cyfrowe, Sygnatura: 1-R-580.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Unknown author Unknown author — https://commons.wikimedia.org/wiki/File:Brat_Albert.png — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Albert Chmielowski; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q924770); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-06",
+            "url": "https://commons.wikimedia.org/wiki/File:Brat_Albert.png",
+            "pageRead": true,
+            "dimensions": {
+              "width": 538,
+              "height": 758,
+              "sizeAsReported": "314 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-07",
+      "name": "СВЯТЫ КАРЛА АКУЦІС",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-07.jpg",
+        "width": 960,
+        "height": 1344,
+        "bytes": 589469,
+        "sha256": "cfccca197d48d5146adbc5fe178334ad108c3a4a0e1565915ad6725f851f3ccd",
+        "screen": {
+          "width": 960,
+          "height": 1344,
+          "src": "assets/saint-07.jpg",
+          "srcset": "assets/screen/saint-07-400.webp 400w, assets/saint-07.jpg 960w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1GhAcGg4WWWQKOJS3Ic6DL2fuczgpZOkF/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Covent Garden, Corpus Christi Catholic Church, Carlo Acutis memorial.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Covent_Garden,_Corpus_Christi_Catholic_Church,_Carlo_Acutis_memorial.jpg",
+          "authorAsReported": "AndyScott. Происхождение по странице: Own work.",
+          "licenseAsReported": "CC BY-SA 4.0 ([текст лицензии](https://creativecommons.org/licenses/by-sa/4.0)). Атрибуция по метаданным: true.",
+          "attributionAsReported": "AndyScott — Covent Garden, Corpus Christi Catholic Church, Carlo Acutis memorial.jpg — https://commons.wikimedia.org/wiki/File:Covent_Garden,_Corpus_Christi_Catholic_Church,_Carlo_Acutis_memorial.jpg — CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0.",
+          "conditionsAsReported": "Указать автора, название/источник и ссылку на указанную лицензию; отметить изменения. Для BY-SA производные распространять с совместимой ShareAlike-лицензией. Для фотографии рельефа источник отдельно приводит британское основание Freedom of Panorama; эти сведения и условия CC BY-SA должны сохраняться.",
+          "identityAsReported": "Carlo Acutis; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q2939142); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-07",
+            "url": "https://commons.wikimedia.org/wiki/File:Covent_Garden,_Corpus_Christi_Catholic_Church,_Carlo_Acutis_memorial.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 2793,
+              "height": 4500,
+              "sizeAsReported": "2.19 MB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-08",
+      "name": "СВЯТАЯ ЦЭЦЫЛІЯ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-08.jpg",
+        "width": 256,
+        "height": 489,
+        "bytes": 17864,
+        "sha256": "f005b28020d5fbfd6c9ab2be15cc9fb14a442fd6bb23fe50b93fec077ee8f367",
+        "screen": {
+          "width": 256,
+          "height": 489,
+          "src": "assets/saint-08.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1RvYCGz7lJvqM_ts1Mkgbp1MRznWgQyXk/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Giambattista Tiepolo - Saint Cecilia - Google Art Project.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Giambattista_Tiepolo_-_Saint_Cecilia_-_Google_Art_Project.jpg",
+          "authorAsReported": "Giambattista Tiepolo (1696 - 1770) Born in Venice. Died in Madrid. Details on Google Art Project. Происхождение по странице: 1QFr4X0uMPl9Dg at Google Cultural Institute maximum zoom level.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Giambattista Tiepolo (1696 - 1770) Born in Venice. Died in Madrid. Details on Google Art Project — https://commons.wikimedia.org/wiki/File:Giambattista_Tiepolo_-_Saint_Cecilia_-_Google_Art_Project.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Saint Cecilia; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q80513); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-08",
+            "url": "https://commons.wikimedia.org/wiki/File:Giambattista_Tiepolo_-_Saint_Cecilia_-_Google_Art_Project.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 2857,
+              "height": 3481,
+              "sizeAsReported": "2.7 MB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-09",
+      "name": "СВЯТЫ ЯЎСТАХ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-09.jpg",
+        "width": 148,
+        "height": 222,
+        "bytes": 10355,
+        "sha256": "a972069b76a926c63a5d1eefc2dcf24ae03c08f7f73512d4c1d22e66055ec770",
+        "screen": {
+          "width": 148,
+          "height": 222,
+          "src": "assets/saint-09.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1D-ZDN_HyeCn4x5gDCR8xXcDCM2GSgNE9/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Saint Eustace, Cretan school, 17 c..jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Saint_Eustace,_Cretan_school,_17_c..jpg",
+          "authorAsReported": "Cretan School. Происхождение по странице: http://artinvestment.ru/news/exhibitions/20110107_kritskie_icony.html.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Cretan School — https://commons.wikimedia.org/wiki/File:Saint_Eustace,_Cretan_school,_17_c..jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Saint Eustace; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q218921); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-09",
+            "url": "https://commons.wikimedia.org/wiki/File:Saint_Eustace,_Cretan_school,_17_c..jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 600,
+              "height": 739,
+              "sizeAsReported": "83 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-10",
+      "name": "СВЯТЫ ФЛАРЫЯН",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-10.jpg",
+        "width": 151,
+        "height": 265,
+        "bytes": 5728,
+        "sha256": "bcace7a4ca9fcfcf09cf7bd7ce5011dd745b4f1dae03dcfa7bf83e6dc7f95942",
+        "screen": {
+          "width": 151,
+          "height": 265,
+          "src": "assets/saint-10.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1IIPllk67UfUosmzGzQqg9m7taoUA54Jx/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Saint Florian.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Saint_Florian.jpg",
+          "authorAsReported": "Adam Brenner. Происхождение по странице: Adam Brenner.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Adam Brenner — https://commons.wikimedia.org/wiki/File:Saint_Florian.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Saint Florian; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q298845); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-10",
+            "url": "https://commons.wikimedia.org/wiki/File:Saint_Florian.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 282,
+              "height": 500,
+              "sizeAsReported": "26 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-11",
+      "name": "СВЯТЫ АРХАНЁЛ ГАБРЫЭЛЬ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-11.png",
+        "width": 300,
+        "height": 428,
+        "bytes": 336236,
+        "sha256": "532caf538768a9983623b1d9252835ca3df54e1ada36207eef4a064b74cb4dff",
+        "screen": {
+          "width": 300,
+          "height": 428,
+          "src": "assets/screen/saint-11-300.webp",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1YzSN9qbOZcBSjSTM6DnC6OQ0IUh5xQZV/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Georgia Kintsvisi fresco.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Georgia_Kintsvisi_fresco.jpg",
+          "authorAsReported": "uploader Koperczak ( talk ) 06:28, 24 March 2009 (UTC). Происхождение по странице: Всеобщая История Искусств - Искусство - Москва 1964.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "uploader Koperczak ( talk ) 06:28, 24 March 2009 (UTC) — https://commons.wikimedia.org/wiki/File:Georgia_Kintsvisi_fresco.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Gabriel; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q81989); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-11",
+            "url": "https://commons.wikimedia.org/wiki/File:Georgia_Kintsvisi_fresco.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 706,
+              "height": 798,
+              "sizeAsReported": "271 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Страница описывает Angel; нужно отдельно подтвердить, что это Габриэль.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-12",
+      "name": "СВЯТЫ ІГНАЦЫ ЛАЁЛА",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-12.jpg",
+        "width": 232,
+        "height": 294,
+        "bytes": 10290,
+        "sha256": "00302c6f0ec8cdb2aa9515e0595d40bb02069719a9abf15754248a0b319e91b9",
+        "screen": {
+          "width": 232,
+          "height": 294,
+          "src": "assets/saint-12.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1-4wHBOEDN0hHKc3aQ7ASjernqXMeDaAI/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:St Ignatius of Loyola (1491-1556) Founder of the Jesuits.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:St_Ignatius_of_Loyola_(1491-1556)_Founder_of_the_Jesuits.jpg",
+          "authorAsReported": "Не указан в машиночитаемых данных файла. Происхождение по странице: Own work.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Не указан в машиночитаемых данных файла — https://commons.wikimedia.org/wiki/File:St_Ignatius_of_Loyola_(1491-1556)_Founder_of_the_Jesuits.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Ignatius of Loyola; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q44281); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-12",
+            "url": "https://commons.wikimedia.org/wiki/File:St_Ignatius_of_Loyola_(1491-1556)_Founder_of_the_Jesuits.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 1956,
+              "height": 3220,
+              "sizeAsReported": "913 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-13",
+      "name": "СВЯТЫ ІВО ГЕЛАРЫ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-13.jpg",
+        "width": 3315,
+        "height": 4226,
+        "bytes": 2661295,
+        "sha256": "658fb27571421891e3b22515203ebbb339ff61a8ca662202902f259227470f6f",
+        "screen": {
+          "width": 3315,
+          "height": 4226,
+          "src": "assets/screen/saint-13-800.webp",
+          "srcset": "assets/screen/saint-13-400.webp 400w, assets/screen/saint-13-800.webp 800w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "PD declared; identity uncertain",
+        "sourceAsReported": "[страница/предоставленный файл](https://commons.wikimedia.org/wiki/File:Weyden_Ivo.jpg).",
+        "rightsAsReported": "Workshop of Rogier van der Weyden. **Правообладатель:** Действующие исключительные авторские права не заявлены в источнике PD; владение оригиналом картины не приравнивается к авторскому праву. **Лицензия/разрешение:** Public domain (PD-Art / PD-old, as declared by Commons file page). **Атрибуция:** По отметке файла false; сохранять автора, название и источник рекомендуется."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:SantIvo.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:SantIvo.jpg",
+          "authorAsReported": "Anonymous Unknown author. Происхождение по странице: photographie.groups.vox.com/ library/post/.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Anonymous Unknown author — https://commons.wikimedia.org/wiki/File:SantIvo.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Ivo of Kermartin; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q358325); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-13",
+            "url": "https://commons.wikimedia.org/wiki/File:SantIvo.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 2424,
+              "height": 1864,
+              "sizeAsReported": "987 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Текущий Weyden Ivo.jpg: Saint Ivo? — личность неоднозначна. Кандидат SantIvo.jpg требует осмотра полной сцены и подтверждения Иво Гелори.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-14",
+      "name": "СВЯТЫ ІСІДОР",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-14.jpg",
+        "width": 535,
+        "height": 799,
+        "bytes": 100604,
+        "sha256": "8a65daed69ecc384f2ba891f392989dec14a138545faa7ffbf0aeee46a2007d6",
+        "screen": {
+          "width": 535,
+          "height": 799,
+          "src": "assets/saint-14.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/16UlGUwHLoWwmai66U0sJYtq9VnrrrIm8/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Hüttau Kirche - St.Isidor.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:H%C3%BCttau_Kirche_-_St.Isidor.jpg",
+          "authorAsReported": "Wolfgang Sauber. Происхождение по странице: Own work.",
+          "licenseAsReported": "CC BY-SA 3.0 ([текст лицензии](https://creativecommons.org/licenses/by-sa/3.0)). Атрибуция по метаданным: true.",
+          "attributionAsReported": "Wolfgang Sauber — Hüttau Kirche - St.Isidor.jpg — https://commons.wikimedia.org/wiki/File:H%C3%BCttau_Kirche_-_St.Isidor.jpg — CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0.",
+          "conditionsAsReported": "Указать автора, название/источник и ссылку на указанную лицензию; отметить изменения. Для BY-SA производные распространять с совместимой ShareAlike-лицензией.",
+          "identityAsReported": "Isidore the Laborer; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q379685); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-14",
+            "url": "https://commons.wikimedia.org/wiki/File:H%C3%BCttau_Kirche_-_St.Isidor.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 1240,
+              "height": 1404,
+              "sizeAsReported": "1.44 MB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Нужен Исидор Мадридский (земледелец), не Исидор Севильский; страница кандидата называет Isidore the Labourer.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-15",
+      "name": "СВЯТЫ ЯЦЭК АДРОВАЖ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-15.jpg",
+        "width": 300,
+        "height": 400,
+        "bytes": 33441,
+        "sha256": "40616b2a3bba820b6d7d38fae7fe73d99e323291dbbb9c6dc750e8e1edead625",
+        "screen": {
+          "width": 300,
+          "height": 400,
+          "src": "assets/saint-15.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1LQYSSo36WsFWKM6Yz9ha5XAWIQbqrhkG/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Friesach - Dominikanerkirche - Hochaltar - Hl Hyazinth.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Friesach_-_Dominikanerkirche_-_Hochaltar_-_Hl_Hyazinth.jpg",
+          "authorAsReported": "Neithan90. Происхождение по странице: Own work.",
+          "licenseAsReported": "CC0 ([текст лицензии](http://creativecommons.org/publicdomain/zero/1.0/deed.en)). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Neithan90 — https://commons.wikimedia.org/wiki/File:Friesach_-_Dominikanerkirche_-_Hochaltar_-_Hl_Hyazinth.jpg — CC0.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Hyacinth of Poland; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q8689031); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-15",
+            "url": "https://commons.wikimedia.org/wiki/File:Friesach_-_Dominikanerkirche_-_Hochaltar_-_Hl_Hyazinth.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 2333,
+              "height": 4906,
+              "sizeAsReported": "2.59 MB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-16",
+      "name": "СВЯТЫ АПОСТАЛ ЯКУБ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-16.jpg",
+        "width": 419,
+        "height": 418,
+        "bytes": 38137,
+        "sha256": "ab9e7d34ba638965bc4c515beed7dd12af29711c61a73228498a12f18048bc4e",
+        "screen": {
+          "width": 419,
+          "height": 418,
+          "src": "assets/saint-16.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1azTloeu8_hfsb24osqInQ1_U7riMJDMV/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:El Greco - Saint James as a Pilgrim, Baron André Herzog.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_Greco_-_Saint_James_as_a_Pilgrim,_Baron_Andr%C3%A9_Herzog.jpg",
+          "authorAsReported": "El Greco. Происхождение по странице: File:El greco nizhniy novgorod.jpg.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "El Greco — https://commons.wikimedia.org/wiki/File:El_Greco_-_Saint_James_as_a_Pilgrim,_Baron_Andr%C3%A9_Herzog.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "St. James the Elder; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q43999); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-16",
+            "url": "https://commons.wikimedia.org/wiki/File:El_Greco_-_Saint_James_as_a_Pilgrim,_Baron_Andr%C3%A9_Herzog.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 343,
+              "height": 665,
+              "sizeAsReported": "270 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-17",
+      "name": "СВЯТЫ ЯН МАРЫЯ ВІЯНЭЙ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-17.jpg",
+        "width": 142,
+        "height": 209,
+        "bytes": 6544,
+        "sha256": "c1dc52191e5be3d468b43c27740d95906ce8d61498575cb28932c229065fa618",
+        "screen": {
+          "width": 142,
+          "height": 209,
+          "src": "assets/saint-17.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1w6TE_OfURWnL8FCG1RmD_8-NpfULaC0w/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Sermentizon vianney.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sermentizon_vianney.jpg",
+          "authorAsReported": "Romary. Происхождение по странице: Own work.",
+          "licenseAsReported": "CC BY-SA 3.0 ([текст лицензии](http://creativecommons.org/licenses/by-sa/3.0/)). Атрибуция по метаданным: true.",
+          "attributionAsReported": "Romary — Sermentizon vianney.jpg — https://commons.wikimedia.org/wiki/File:Sermentizon_vianney.jpg — CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/.",
+          "conditionsAsReported": "Указать автора, название/источник и ссылку на указанную лицензию; отметить изменения. Для BY-SA производные распространять с совместимой ShareAlike-лицензией.",
+          "identityAsReported": "Jean-Marie Vianney; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q243816); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-17",
+            "url": "https://commons.wikimedia.org/wiki/File:Sermentizon_vianney.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 1489,
+              "height": 3329,
+              "sizeAsReported": "910 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-18",
+      "name": "СВЯТЫ ЯН ПАВЕЛ II",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-18.jpg",
+        "width": 762,
+        "height": 889,
+        "bytes": 780406,
+        "sha256": "548b540ddf49680f33824516c619f9b52c4fac0194ef37c840015d62ea562bb6",
+        "screen": {
+          "width": 762,
+          "height": 889,
+          "src": "assets/saint-18.jpg",
+          "srcset": "assets/screen/saint-18-400.webp 400w, assets/saint-18.jpg 762w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1QNC42e24dbgayBa5wbkldhnEFcD-oVjE/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Pope John Paul II 1991 (cropped).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pope_John_Paul_II_1991_(cropped",
+          "authorAsReported": "Photo by White House. Происхождение по странице: https://www.pbs.org/newshour/nation/history-presidential-visits-pope.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Photo by White House — https://commons.wikimedia.org/wiki/File:Pope_John_Paul_II_1991_(cropped).jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "John Paul II; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q989); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": null,
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-19",
+      "name": "СВЯТЫ ЮЗАФ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-19.jpg",
+        "width": 2658,
+        "height": 3200,
+        "bytes": 1659312,
+        "sha256": "bfbfe4fe4866c329b27a0135f003c5f237eadd056c695571295d9fb0c0a460ed",
+        "screen": {
+          "width": 2658,
+          "height": 3200,
+          "src": "assets/screen/saint-19-800.webp",
+          "srcset": "assets/screen/saint-19-400.webp 400w, assets/screen/saint-19-800.webp 800w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1H8_QFKV6RZaxlsHaz4F0zn7NHUdi_gP0/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Guido Reni - St Joseph with the Infant Jesus - WGA19304.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Guido_Reni_-_St_Joseph_with_the_Infant_Jesus_-_WGA19304.jpg",
+          "authorAsReported": "Guido Reni. Происхождение по странице: Web Gallery of Art : Image Info about artwork wga QS:P11807,\"r/reni/2/joseph_i\".",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Guido Reni — https://commons.wikimedia.org/wiki/File:Guido_Reni_-_St_Joseph_with_the_Infant_Jesus_-_WGA19304.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Saint Joseph; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q128267); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-19",
+            "url": "https://commons.wikimedia.org/wiki/File:Guido_Reni_-_St_Joseph_with_the_Infant_Jesus_-_WGA19304.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 1029,
+              "height": 1255,
+              "sizeAsReported": "102 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-20",
+      "name": "СВЯТЫ ЮЗАФ З КУПЕРЦІНА",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-20.jpg",
+        "width": 1280,
+        "height": 720,
+        "bytes": 114273,
+        "sha256": "a4d47e6486eaa99a82a3ee507704e3fde517548a1d24238c509f25bba086d229",
+        "screen": {
+          "width": 1280,
+          "height": 720,
+          "src": "assets/saint-20.jpg",
+          "srcset": "assets/screen/saint-20-400.webp 400w, assets/saint-20.jpg 1280w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1Wzf-vMLzY5zQpyzXw6XUZeZyh6jNgKCr/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:San Giuseppe di Copertino 18th century engraving.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Giuseppe_di_Copertino_18th_century_engraving.jpg",
+          "authorAsReported": "Unknown author Unknown author. Происхождение по странице: http://www.antoranz.net/CURIOSA/ZBIOR2/C0301/08-QZC03096_Copertino.HTM.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Unknown author Unknown author — https://commons.wikimedia.org/wiki/File:San_Giuseppe_di_Copertino_18th_century_engraving.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Joseph of Cupertino; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q313807); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-20",
+            "url": "https://commons.wikimedia.org/wiki/File:San_Giuseppe_di_Copertino_18th_century_engraving.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 305,
+              "height": 458,
+              "sizeAsReported": "38 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-21",
+      "name": "СВЯТЫ ХРЫСТАФОР",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-21.jpg",
+        "width": 465,
+        "height": 659,
+        "bytes": 51359,
+        "sha256": "ce7026785d96c8d18ce8aea1e57d6b5fcfb7e67fcae7f6489b92a5a7637e2f5d",
+        "screen": {
+          "width": 465,
+          "height": 659,
+          "src": "assets/saint-21.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1XSCofT58m0lTrH6T1PPHwS_Utwe70p6v/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Konrad Witz 004.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Konrad_Witz_004.jpg",
+          "authorAsReported": "Konrad Witz. Происхождение по странице: The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 ..",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Konrad Witz — https://commons.wikimedia.org/wiki/File:Konrad_Witz_004.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Saint Christopher; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q193507); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-21",
+            "url": "https://commons.wikimedia.org/wiki/File:Konrad_Witz_004.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 2024,
+              "height": 2520,
+              "sizeAsReported": "402 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-22",
+      "name": "СВЯТАЯ ЛЮЦЫЯ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-22.jpg",
+        "width": 246,
+        "height": 471,
+        "bytes": 15667,
+        "sha256": "453da477022dd617128611945bc9427e2a92eb729b657808c92cf00fbacf8ad1",
+        "screen": {
+          "width": 246,
+          "height": 471,
+          "src": "assets/saint-22.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1TA-lkEoQkoYTeeCy3WXIwVpHGglqS0pG/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Francisco de Zurbarán, Saint Lucy, c. 1625-1630, NGA 12209.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Francisco_de_Zurbar%C3%A1n,_Saint_Lucy,_c._1625-1630,_NGA_12209.jpg",
+          "authorAsReported": "Francisco de Zurbarán. Происхождение по странице: This file was donated to Wikimedia Commons as part of a project by the National Gallery of Art . Please see the Gallery's Open Access Policy ..",
+          "licenseAsReported": "CC0 ([текст лицензии](http://creativecommons.org/publicdomain/zero/1.0/deed.en)). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Francisco de Zurbarán — https://commons.wikimedia.org/wiki/File:Francisco_de_Zurbar%C3%A1n,_Saint_Lucy,_c._1625-1630,_NGA_12209.jpg — CC0.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Saint Lucy; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q183240); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-22",
+            "url": "https://commons.wikimedia.org/wiki/File:Francisco_de_Zurbar%C3%A1n,_Saint_Lucy,_c._1625-1630,_NGA_12209.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 2961,
+              "height": 4000,
+              "sizeAsReported": "11.57 MB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-23",
+      "name": "СВЯТЫ ЕВАНГЕЛІСТ ЛУКА",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-23.jpg",
+        "width": 2024,
+        "height": 2455,
+        "bytes": 400483,
+        "sha256": "f64c2f9f0afd76034b4a671a2490038d7aabcad7de2c4bb794e3c1e36748aca3",
+        "screen": {
+          "width": 2024,
+          "height": 2455,
+          "src": "assets/saint-23.jpg",
+          "srcset": "assets/screen/saint-23-400.webp 400w, assets/saint-23.jpg 2024w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1APG6XbFP9f4mAAubtcwwQ4Ooeq8RBfEG/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Grandes Heures Anne de Bretagne Saint Luc.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Grandes_Heures_Anne_de_Bretagne_Saint_Luc.jpg",
+          "authorAsReported": "Jean Bourdichon. Происхождение по странице: Bibliothèque nationale de France.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Jean Bourdichon — https://commons.wikimedia.org/wiki/File:Grandes_Heures_Anne_de_Bretagne_Saint_Luc.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Luke the Evangelist; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q128538); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-23",
+            "url": "https://commons.wikimedia.org/wiki/File:Grandes_Heures_Anne_de_Bretagne_Saint_Luc.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 3168,
+              "height": 4808,
+              "sizeAsReported": "10.61 MB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-24",
+      "name": "СВЯТАЯ МАРТА",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-24.jpg",
+        "width": 400,
+        "height": 230,
+        "bytes": 77162,
+        "sha256": "bf531925a1ead37c8eb06bd49fc9d9438f749fa626c0555285fcb4619d6ceb35",
+        "screen": {
+          "width": 400,
+          "height": 230,
+          "src": "assets/saint-24.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/14nZfnZ443ZzN9Xf4hkwf_wFu4cHXTZa6/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Diego Velázquez Christ in the House of Martha and Mary.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_Christ_in_the_House_of_Martha_and_Mary.jpg",
+          "authorAsReported": "Diego Velázquez. Происхождение по странице: National Gallery, London.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Diego Velázquez — https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_Christ_in_the_House_of_Martha_and_Mary.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Martha; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q232453); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-24",
+            "url": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_Christ_in_the_House_of_Martha_and_Mary.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 984,
+              "height": 567,
+              "sizeAsReported": "125 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Многофигурная сцена Марфы и Марии: сохранить полностью, уточнить пояснение, не выдавать другой персонаж за Марфу.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-25",
+      "name": "СВЯТЫ АПОСТАЛ МАЦВЕЙ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-25.jpg",
+        "width": 1280,
+        "height": 1667,
+        "bytes": 677161,
+        "sha256": "f12945bbae7675f58ccea11decc191e040479525818d888d73d23cff89109bc9",
+        "screen": {
+          "width": 1280,
+          "height": 1667,
+          "src": "assets/saint-25.jpg",
+          "srcset": "assets/screen/saint-25-400.webp 400w, assets/saint-25.jpg 1280w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1-t-aKt6fZMIyJdb2wUV-2vz5yTrmEK4Z/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Grandes Heures Anne de Bretagne Saint Matthieu.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Grandes_Heures_Anne_de_Bretagne_Saint_Matthieu.jpg",
+          "authorAsReported": "Jean Bourdichon. Происхождение по странице: Bibliothèque nationale de France.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Jean Bourdichon — https://commons.wikimedia.org/wiki/File:Grandes_Heures_Anne_de_Bretagne_Saint_Matthieu.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Matthew the Apostle; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q43600); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-25",
+            "url": "https://commons.wikimedia.org/wiki/File:Grandes_Heures_Anne_de_Bretagne_Saint_Matthieu.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 3168,
+              "height": 4808,
+              "sizeAsReported": "10.65 MB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-26",
+      "name": "СВЯТЫ АРХАНЁЛ МІХАІЛ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-26.jpg",
+        "width": 1280,
+        "height": 1541,
+        "bytes": 502533,
+        "sha256": "143cd240fe191762c5432eed99552b547815d0a5c5ad210329150304e1acac3a",
+        "screen": {
+          "width": 1280,
+          "height": 1541,
+          "src": "assets/saint-26.jpg",
+          "srcset": "assets/screen/saint-26-400.webp 400w, assets/saint-26.jpg 1280w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1ncBZIPzCKrTLzVtrnqT8IuM3w6PCd6QT/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Mikharkhangel.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mikharkhangel.jpg",
+          "authorAsReported": "Anonymous Byzantine painter (395-1453 AD) Public domain image. Происхождение по странице: https://rutracker.org/forum/viewtopic.php?t=3473522.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Anonymous Byzantine painter (395-1453 AD) Public domain image — https://commons.wikimedia.org/wiki/File:Mikharkhangel.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Michael; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q45581); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-26",
+            "url": "https://commons.wikimedia.org/wiki/File:Mikharkhangel.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 768,
+              "height": 933,
+              "sizeAsReported": "343 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-27",
+      "name": "СВЯТЫ АЙЦЕЦ ПІО",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-27.jpg",
+        "width": 1200,
+        "height": 1494,
+        "bytes": 209333,
+        "sha256": "2abf38be961704e05cbd8bc0355054cd5d748d7ea942c41db539da67ea56c33a",
+        "screen": {
+          "width": 1200,
+          "height": 1494,
+          "src": "assets/saint-27.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/10mGxtg0XYRNyQiDR1_Z_LzD47rCS_-T4/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Padre Pio portrait.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Padre_Pio_portrait.jpg",
+          "authorAsReported": "The original uploader was Manfredonia at Italian Wikipedia .. Происхождение по странице: Transferred from it.wikipedia to Commons. www.vatican.va.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "The original uploader was Manfredonia at Italian Wikipedia . — https://commons.wikimedia.org/wiki/File:Padre_Pio_portrait.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Padre Pio; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q193754); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-27",
+            "url": "https://commons.wikimedia.org/wiki/File:Padre_Pio_portrait.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 388,
+              "height": 483,
+              "sizeAsReported": "158 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-28",
+      "name": "СВЯТЫ АЙЦЕЦ СТАНІСЛАЎ ПАПЧЫНСКІ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-28.jpg",
+        "width": 1280,
+        "height": 1771,
+        "bytes": 327181,
+        "sha256": "be7daa87954fbd34646a170ffcc1ed0a8c8c693f7ad8c9c6c2947b4ca0033022",
+        "screen": {
+          "width": 1280,
+          "height": 1771,
+          "src": "assets/saint-28.jpg",
+          "srcset": "assets/screen/saint-28-400.webp 400w, assets/saint-28.jpg 1280w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/13LDrRFiUje97_UPrQABZ4h0ZHtiQwzN_/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Fr pap shadow.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fr_pap_shadow.jpg",
+          "authorAsReported": "Не указан в машиночитаемых данных файла. Происхождение по странице: нет отдельного машиночитаемого поля; см. страницу файла.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Не указан в машиночитаемых данных файла — https://commons.wikimedia.org/wiki/File:Fr_pap_shadow.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Stanisław Papczyński; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q731556); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-28",
+            "url": "https://commons.wikimedia.org/wiki/File:Fr_pap_shadow.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 195,
+              "height": 243,
+              "sizeAsReported": "20 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category",
+          "existingBinaryMatch": {
+            "otherAsset": "assets/founder-papczynski.jpg",
+            "sha1": "e8dd0d30a93de5e8d8d45c6b439f909b2442eae6",
+            "commonsBytes": 20525,
+            "pageRevision": "https://commons.wikimedia.org/w/index.php?title=File:Fr_pap_shadow.jpg&oldid=1252471171"
+          }
+        }
+      ],
+      "blocker": "Кандидат Fr_pap_shadow.jpg точно совпадает с отдельным существующим портретом основателя (не с прежней картинкой saint-28). На странице PD-Art/PD-old-70 есть незакрытая просьба уточнить US-tag и отсутствуют автор/первичный источник. Правовое основание требует согласования; файл всего 195×243.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-29",
+      "name": "СВЯТЫ АПОСТАЛ ПАВЕЛ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-29.webp",
+        "width": 900,
+        "height": 675,
+        "bytes": 130720,
+        "sha256": "c6dd2974bd127fba660e68bde9d6057f8fcbc3d7885e2338cb6e54ec7530fa3f",
+        "screen": {
+          "width": 900,
+          "height": 675,
+          "src": "assets/saint-29.webp",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/13opq7pvIKtA6MjT0p6_C7Sy-rPHG9_ze/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Giovanni Francesco Barbieri - Saint Paul.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Giovanni_Francesco_Barbieri_-_Saint_Paul.jpg",
+          "authorAsReported": "Guercino. Происхождение по странице: Sotheby's London, 08 Juli 2009, lot 28.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Guercino — https://commons.wikimedia.org/wiki/File:Giovanni_Francesco_Barbieri_-_Saint_Paul.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Paul the Apostle; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q9200); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-29",
+            "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Francesco_Barbieri_-_Saint_Paul.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 1458,
+              "height": 1991,
+              "sizeAsReported": "638 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-30",
+      "name": "СВЯТЫ АПОСТАЛ ПЁТР",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-30.jpg",
+        "width": 491,
+        "height": 625,
+        "bytes": 59925,
+        "sha256": "a57a7cf8fd4feebdd1dd7b22760303cf223c11fe7cc0867337e5327223567680",
+        "screen": {
+          "width": 491,
+          "height": 625,
+          "src": "assets/saint-30.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1NZzIhkxm8hL7yJgxQAr0-vwuVBJT3JoQ/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Saint Peter-Sinai (6th Century).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Saint_Peter-Sinai_(6th_Century",
+          "authorAsReported": "Unknown author Unknown author. Происхождение по странице: Michel Bakni.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Unknown author Unknown author — https://commons.wikimedia.org/wiki/File:Saint_Peter-Sinai_(6th_Century).jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Saint Peter; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q33923); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": null,
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-31",
+      "name": "СВЯТЫ АРХАНЁЛ РАФАЛ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-31.jpg",
+        "width": 1280,
+        "height": 1468,
+        "bytes": 533364,
+        "sha256": "4ab6304924528c15df5d60af09c1e94146773da66809d2ff6d99a7da8a9bbff0",
+        "screen": {
+          "width": 1280,
+          "height": 1468,
+          "src": "assets/saint-31.jpg",
+          "srcset": "assets/screen/saint-31-400.webp 400w, assets/saint-31.jpg 1280w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1519kZq6E3RsUqDwi0lBC1b7CUBmOMCEG/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Biagio d'Antonio - The Archangel Raphael with Tobias.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Biagio_d%27Antonio_-_The_Archangel_Raphael_with_Tobias.jpg",
+          "authorAsReported": "Biagio d'Antonio. Происхождение по странице: [1].",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Biagio d'Antonio — https://commons.wikimedia.org/wiki/File:Biagio_d%27Antonio_-_The_Archangel_Raphael_with_Tobias.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Raphael; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q56951); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-31",
+            "url": "https://commons.wikimedia.org/wiki/File:Biagio_d%27Antonio_-_The_Archangel_Raphael_with_Tobias.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 277,
+              "height": 730,
+              "sizeAsReported": "80 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Рафаил с Товией: сохранить обоих; Gabriel не подходит. Кандидат всего 277×730, недостаточен для крупной печати.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-32",
+      "name": "СВЯТЫ РАФАЛ КАЛІНОЎСКІ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-32.jpg",
+        "width": 395,
+        "height": 600,
+        "bytes": 39664,
+        "sha256": "0c5ea303b4f5984840f2302cb0829864da093f5f097a335f556b257ed3a98cd9",
+        "screen": {
+          "width": 395,
+          "height": 600,
+          "src": "assets/saint-32.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1l5Ke8lMs7940Ngu5eIWm9UioH1VVeQRy/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Kalinowski1897.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Kalinowski1897.jpg",
+          "authorAsReported": "Unknown author Unknown author. Происхождение по странице: Saint Raphael Kalinowski: an Introduction to His Life and Spirituality , 1998. Written by Szczepan T. Praskiewicz, OCD. Translated to English by Thomas Coonan, Michael Griffin, OCD, and Lawrence Sullivan, OCD. ICS Publications, Institute of Carmelite Studies, Washington DC..",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Unknown author Unknown author — https://commons.wikimedia.org/wiki/File:Kalinowski1897.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Raphael Kalinowski; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q941608); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-32",
+            "url": "https://commons.wikimedia.org/wiki/File:Kalinowski1897.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 395,
+              "height": 600,
+              "sizeAsReported": "39 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "Local exact-match original inspected; full historical photograph, no proposed crop; identity follows explicit file description. Legal/print-quality review still required.",
+          "existingBinaryMatch": {
+            "previousPath": "assets/saint-32.jpg",
+            "sha1": "679c3dd6185b10e985b3e294aa579548449b8a0e",
+            "commonsBytes": 39664,
+            "pageRevision": "https://commons.wikimedia.org/w/index.php?title=File:Kalinowski1897.jpg&oldid=1183486639"
+          }
+        }
+      ],
+      "blocker": "Локальный файл точно совпал с Kalinowski1897.jpg по SHA-1 679c3dd6185b10e985b3e294aa579548449b8a0e. Страница заявляет PD-Poland, но просит дату/место первой публикации; назван источник 1998 года, что само по себе не подтверждает публикацию без copyright notice до 1994 и условия URAA. Автор неизвестен; требуется документировать основание. Разрешение 395×600 недостаточно для крупной печати.",
+      "iconography": "Локальная фотография соответствует странице Рафала Калиновского; подтверждено точное совпадение SHA-1. Сохранена полная фотография для закрытого осмотра; правовой блокер остаётся из-за PD-Poland и неизвестной первой публикации; 395×600.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-33",
+      "name": "СВЯТЫ АПОСТАЛ ТАМАШ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-33.jpg",
+        "width": 1280,
+        "height": 1605,
+        "bytes": 626877,
+        "sha256": "f5027175c74fed2ca89c83454670f8be064cc6c7fce00f6ffb54bd49b0292717",
+        "screen": {
+          "width": 1280,
+          "height": 1605,
+          "src": "assets/saint-33.jpg",
+          "srcset": "assets/screen/saint-33-400.webp 400w, assets/saint-33.jpg 1280w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1v2jQs8n1eKuy7zfsyQM5fRih-SUilpzV/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Thomas.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Thomas.jpg",
+          "authorAsReported": "18 century icon painter. Происхождение по странице: Iconostasis of Transfiguration church, Kizhi monastery, Karelia, Russia.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "18 century icon painter — https://commons.wikimedia.org/wiki/File:Thomas.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Thomas the Apostle; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q43669); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-33",
+            "url": "https://commons.wikimedia.org/wiki/File:Thomas.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 233,
+              "height": 500,
+              "sizeAsReported": "114 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-34",
+      "name": "СВЯТАЯ ВЕРАНІКА",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/saint-34.jpg",
+        "width": 1192,
+        "height": 1338,
+        "bytes": 692380,
+        "sha256": "7d31707e74eeb4f7f5f0a3c0590cad581c6ddb1476d35c4870e996542825b259",
+        "screen": {
+          "width": 1192,
+          "height": 1338,
+          "src": "assets/screen/saint-34-800.webp",
+          "srcset": "assets/screen/saint-34-400.webp 400w, assets/screen/saint-34-800.webp 800w",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "[страница/предоставленный файл](https://drive.google.com/file/d/1Acq_zVikVO-S50S9c67kGu2TOoZw_Ja_/view).",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Hans Memling 026.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hans_Memling_026.jpg",
+          "authorAsReported": "Hans Memling. Происхождение по странице: The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 ..",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Hans Memling — https://commons.wikimedia.org/wiki/File:Hans_Memling_026.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Saint Veronica; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q196653); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-34",
+            "url": "https://commons.wikimedia.org/wiki/File:Hans_Memling_026.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 2024,
+              "height": 2635,
+              "sizeAsReported": "384 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Кандидат не осмотрен; требуется сравнение личности, атрибутов, качества и полного кадра.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    },
+    {
+      "id": "saint-35",
+      "name": "БЛАГАСЛАЎЛЁНЫЯ МУЧАНІКІ З РОСІЦЫ",
+      "status": "needs-review",
+      "decision": "needs-review",
+      "previous": {
+        "path": "assets/rositsa.jpg",
+        "width": 800,
+        "height": 533,
+        "bytes": 115870,
+        "sha256": "1e6bdcd90c4ae1b17a852e0c8f78843341a7c737451b7604c0d37196b3caed64",
+        "screen": {
+          "width": 800,
+          "height": 533,
+          "src": "assets/rositsa.jpg",
+          "srcset": "",
+          "sizes": "(max-width: 560px) calc(100vw - 96px), 220px"
+        },
+        "rightsStatus": "unproven",
+        "sourceAsReported": "Переданный пользователем файл Росицких мучеников; наблюдается водяной знак Catholic.by; исходная публикация не передана..",
+        "rightsAsReported": "не установлен. **Правообладатель:** Не установлен по предоставленным материалам. **Лицензия/разрешение:** не установлено. **Атрибуция:** Не установлено: необходимы первоисточник/разрешение; подпись не заменяет разрешения."
+      },
+      "candidates": [
+        {
+          "status": "candidate",
+          "title": "File:Antoni Leszczewicz, MIC (240).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Antoni_Leszczewicz,_MIC_(240",
+          "authorAsReported": "Unknown author Unknown author. Происхождение по странице: http://www.padrimariani.org/en/heritage/great_figures/leszczewicz.php.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Unknown author Unknown author — https://commons.wikimedia.org/wiki/File:Antoni_Leszczewicz,_MIC_(240).jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Antoni Leszczewicz; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q2042435); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": null,
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        },
+        {
+          "status": "candidate",
+          "title": "File:Kaszyra 240.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Kaszyra_240.jpg",
+          "authorAsReported": "Unknown author Unknown author. Происхождение по странице: http://www.padrimariani.org/en/heritage/great_figures.html.",
+          "licenseAsReported": "Public domain (см. конкретные Public-domain-теги страницы). Атрибуция по метаданным: false.",
+          "attributionAsReported": "Unknown author Unknown author — https://commons.wikimedia.org/wiki/File:Kaszyra_240.jpg — Public domain.",
+          "conditionsAsReported": "На странице конкретного файла указано Public domain или CC0; сохранить автора и источник. Это статус именно кандидата, не доказательство прав на текущий файл.",
+          "identityAsReported": "Jerzy Kaszyra; страница субъекта [Wikidata](https://www.wikidata.org/wiki/Q2986690); описание/категории файла сверены, изображение просмотрено.",
+          "pageObservation": {
+            "id": "saint-35",
+            "url": "https://commons.wikimedia.org/wiki/File:Kaszyra_240.jpg",
+            "pageRead": true,
+            "dimensions": {
+              "width": 240,
+              "height": 375,
+              "sizeAsReported": "25 KB"
+            },
+            "checkedAt": "2026-10-22",
+            "binaryRetrieved": false
+          },
+          "verifiedLicense": null,
+          "originalLicense": null,
+          "derivativeLicense": null,
+          "decision": "needs-review",
+          "visualReview": "not performed: binary unavailable; no rights or identity approval inferred from page/category"
+        }
+      ],
+      "blocker": "Загрузка оригиналов Wikimedia в среде заблокирована прокси HTTP 403. Текст страницы не заменяет осмотр файла; первоисточник и точные условия ещё не подтверждены для внедрения.",
+      "iconography": "Нужны ровно два подписанных портрета: Антоні Ляшчэвіч и Юры Кашыра. Кандидаты 240×364 и 240×375, качество для печати ограничено.",
+      "web": null,
+      "attribution": null,
+      "evidence": null
+    }
+  ],
+  "otherAssets": [
+    {
+      "path": "assets/marian-logo.png",
+      "width": 231,
+      "height": 229,
+      "bytes": 89604,
+      "sha1": "e02bd3fb6535eb1b023b4f0c17d9b8e2414fd810",
+      "status": "needs-review",
+      "note": "Отдельный актив; лицензия святого №5 не применяется. Существующая графика сохранена. Подтверждающего разрешения в ZIP нет."
+    },
+    {
+      "path": "assets/favicon.png",
+      "width": 48,
+      "height": 48,
+      "bytes": 6242,
+      "sha1": "04264e73d5b3c9f159bacfbbf3b4f21e57d02439",
+      "status": "needs-review",
+      "note": "Отдельный актив; лицензия святого №5 не применяется. Существующая графика сохранена. Подтверждающего разрешения в ZIP нет."
+    },
+    {
+      "path": "assets/prayer-book-v7.webp",
+      "width": 960,
+      "height": 1200,
+      "bytes": 92750,
+      "sha1": "90a62a456178b6fffab8a7a98538fe6ef3eb8e7d",
+      "status": "needs-review",
+      "note": "Отдельный актив; лицензия святого №5 не применяется. Существующая графика сохранена. Подтверждающего разрешения в ZIP нет."
+    },
+    {
+      "path": "assets/prayer-book-v7-small.webp",
+      "width": 480,
+      "height": 600,
+      "bytes": 35414,
+      "sha1": "b0340c4e222f28918a15fe9b0007f352f390f201",
+      "status": "needs-review",
+      "note": "Отдельный актив; лицензия святого №5 не применяется. Существующая графика сохранена. Подтверждающего разрешения в ZIP нет."
+    },
+    {
+      "path": "assets/founder-papczynski.jpg",
+      "width": 195,
+      "height": 243,
+      "bytes": 20525,
+      "sha1": "e8dd0d30a93de5e8d8d45c6b439f909b2442eae6",
+      "status": "needs-review",
+      "note": "Точное совпадение SHA-1 с Commons Fr_pap_shadow.jpg: e8dd0d30a93de5e8d8d45c6b439f909b2442eae6. Страница заявляет PD-Art/PD-old-70, но содержит предупреждение об отсутствии US-tag и сведений об авторе/источнике. Требуется правовое согласование; 195×243, не увеличивать.",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fr_pap_shadow.jpg"
+    }
+  ]
+}

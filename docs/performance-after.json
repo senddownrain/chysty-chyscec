@@ -1,0 +1,143 @@
+{
+  "url": "http://localhost:8765/chysty-chyscec/",
+  "method": "Chromium, 390x844, DPR 2, fresh context per scenario; local HTTP response body bytes, no compression/throttling. LCP/CLS are lab observations, not field Web Vitals. No INP without real interactions.",
+  "results": [
+    {
+      "scenario": "first-visit-top",
+      "resources": [
+        {
+          "path": "",
+          "bytes": 35710,
+          "type": "document"
+        },
+        {
+          "path": "style.css",
+          "bytes": 24988,
+          "type": "stylesheet"
+        },
+        {
+          "path": "assets/marian-logo.png",
+          "bytes": 89604,
+          "type": "image"
+        },
+        {
+          "path": "app.mjs",
+          "bytes": 9630,
+          "type": "script"
+        },
+        {
+          "path": "prayers.mjs",
+          "bytes": 7950,
+          "type": "script"
+        },
+        {
+          "path": "core.mjs",
+          "bytes": 1085,
+          "type": "script"
+        },
+        {
+          "path": "image-sizes.mjs",
+          "bytes": 1382,
+          "type": "script"
+        },
+        {
+          "path": "navigation.mjs",
+          "bytes": 560,
+          "type": "script"
+        },
+        {
+          "path": "saints.mjs",
+          "bytes": 53097,
+          "type": "script"
+        },
+        {
+          "path": "config.mjs",
+          "bytes": 177,
+          "type": "script"
+        },
+        {
+          "path": "assets/favicon.png",
+          "bytes": 6242,
+          "type": "other"
+        }
+      ],
+      "requestCount": 11,
+      "bodyBytes": 230425,
+      "imageBytes": 89604,
+      "vitalsLocalUnthrottled": {
+        "lcp": 1076
+      }
+    },
+    {
+      "scenario": "restored-05-at-card",
+      "resources": [
+        {
+          "path": "",
+          "bytes": 35710,
+          "type": "document"
+        },
+        {
+          "path": "style.css",
+          "bytes": 24988,
+          "type": "stylesheet"
+        },
+        {
+          "path": "assets/marian-logo.png",
+          "bytes": 89604,
+          "type": "image"
+        },
+        {
+          "path": "app.mjs",
+          "bytes": 9630,
+          "type": "script"
+        },
+        {
+          "path": "navigation.mjs",
+          "bytes": 560,
+          "type": "script"
+        },
+        {
+          "path": "image-sizes.mjs",
+          "bytes": 1382,
+          "type": "script"
+        },
+        {
+          "path": "core.mjs",
+          "bytes": 1085,
+          "type": "script"
+        },
+        {
+          "path": "prayers.mjs",
+          "bytes": 7950,
+          "type": "script"
+        },
+        {
+          "path": "saints.mjs",
+          "bytes": 53097,
+          "type": "script"
+        },
+        {
+          "path": "config.mjs",
+          "bytes": 177,
+          "type": "script"
+        },
+        {
+          "path": "assets/saints/saint-05-640.webp",
+          "bytes": 101056,
+          "type": "image"
+        },
+        {
+          "path": "assets/favicon.png",
+          "bytes": 6242,
+          "type": "other"
+        }
+      ],
+      "requestCount": 12,
+      "bodyBytes": 331481,
+      "imageBytes": 190660,
+      "vitalsLocalUnthrottled": {
+        "lcp": 620
+      }
+    }
+  ]
+}
